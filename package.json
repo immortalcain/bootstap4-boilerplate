@@ -1,0 +1,26 @@
+{
+  "name": "voden",
+  "title": "boostrap 4 boilerplate",
+  "author": "@immortalcain",
+  "version": "1.0.0",
+  "repository": {
+    "type": "svn",
+    "url": "https://svnsrv/svn"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "browser-sync": "^2.24.4",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.2",
+    "tooltip.js": "^1.1.5"
+  }
+}
